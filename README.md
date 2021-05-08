@@ -40,6 +40,7 @@ Deliverable 3: Create a Gauge Chart
 In this chapter, I learned about the following topics:  
 Using a local server to test my project. Displaying my project onto a public server using GitHub Pages. Sharing my project with the world. I learned how to make attractive charts for users and how to make them interactive. I also learned how to filter the data and display information specific to each volunteer. 
 
+I was able to create a Welcome to the interactive Belly Button Biodiversity Dashboard. The dashboard allows users to explore Bacteria Cultures Found in Belly Button. It contains a gauge to display Belly Button Washing Frequency with Scrubs Per Week. When selecting the test subject ID number, The demographic table information will indicate ethnicity, gender, age, location, Blood type, and frequency. In the bubble chart, you can find the Bacteria Cultures Per Samples.
 Deliverable 4: Customize the Dashboard
 
 ![](Resources/dashbord1.PNG)
