@@ -1,4 +1,4 @@
-# Plotly
+# Plotly - https://jvera01.github.io/Plotly/
 
 ![](static/images/bacteria.png)
 
